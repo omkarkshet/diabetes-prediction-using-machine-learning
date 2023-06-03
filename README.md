@@ -7,11 +7,4 @@ https://diabetes-prediction-l6to.onrender.com
 
 # screenshots
 ![image](https://github.com/omkarkshet/diabetes-prediction-using-machine-learning/assets/91118938/4ca4fc99-f9f4-4314-b39e-70172a18b63c)
-# Table
-Algorithm	Accuracy	Precision	Recall
-Random Forest	95.51	0.971154	0.961905
-KNN	83.97	0.788462	0.964706
-Decision Tree	95.51	0.955128	0.955128
-Support Vector Classifier	91.67	0.916667	0.916667
-Logistic Regression	94.87	0.948718	0.948718
 
